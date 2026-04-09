@@ -6,16 +6,20 @@
 h1{
     color: #6172c5;
     text-align: center;
+    font-size: 60px;
 }
 h2 {
     text-align: center;
     font-size: xx-large;
+    color: #ed2ea5;
     
 }
 li{
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 ul{
     text-align: center;
+    color: #f34105;
+    font-size: xx-large;
 }
