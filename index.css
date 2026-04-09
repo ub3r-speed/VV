@@ -4,8 +4,18 @@
    font-family: "Pixelify Sans", sans-serif;      
 }
 h1{
-    color: orangered;
+    color: #6172c5;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-size: xx-large;
+    
+}
+li{
+    display: inline-block;
+    margin-right: 20px;
 }
 ul{
-    display: inline-block;
+    text-align: center;
 }
