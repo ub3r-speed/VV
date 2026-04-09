@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+*{    
+   font-family: "Pixelify Sans", sans-serif;      
+}
+h1{
+    color: orangered;
+}
+ul{
+    display: inline-block;
+}
