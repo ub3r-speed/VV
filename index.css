@@ -31,7 +31,7 @@ ul{
     font-size: xx-large;
 }
 body{
-    background-image: url(../CSS/images/pixelimage.png); 
+    background-image: url(pixelimage.png); 
     background-position: center; 
     background-size: cover; 
     margin: 0;
